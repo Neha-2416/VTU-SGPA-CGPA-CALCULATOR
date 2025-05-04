@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Adarsh232001/VTU-SGPA-CGPA-CALCULATOR">
-    <img src="https://yt3.ggpht.com/a/AATXAJxtghYXVFvFmWOa13jjjmEdY7E77G1O2qGsNw=s900-c-k-c0xffffffff-no-rj-mo" alt="Logo" width="80" height="80">
+    
   </a>
 
   <h3 align="center">VTU SGPA AND CGPA CALCULATOR</h3>
